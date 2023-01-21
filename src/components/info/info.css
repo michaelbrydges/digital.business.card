@@ -1,0 +1,31 @@
+.info > img {
+  width: 317px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.info > p, h2 {
+  text-align: center;
+}
+
+h2 {  
+  font-size: 25px;
+  color: #ffffff;
+  margin: 15px 0 0 0;
+}
+
+.title {
+  font-size: 14px;
+  color: #F3BF99;
+  margin: 5px 0 10px 0;
+}
+
+p {
+  font-size: 11.5px;
+  color: #ffffff;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,15 @@
+.interests {
+  padding: 15px 35px 40px 35px;
+  width: 247px;
+}
+
+.interests > h4 {
+  margin-bottom: 5px;
+  color: #FFFFFF;
+}
+
+.interests > p {
+  color: #DCDCDC;
+  font-size: 12px;
+}
+  
