@@ -1,6 +1,6 @@
 # Digital Business Card
 
-This is a the first of four solo projects from the Scrimba React course.  The design is based on an image from the figma design file linked below.  You can see the finished digital business card [here](https://lively-flower-056f2e71e.2.azurestaticapps.net/).
+This is the first of four solo projects from the Scrimba React course.  The design is based on an image from the figma design file linked below.  You can see the finished digital business card [here](https://lively-flower-056f2e71e.2.azurestaticapps.net/).
 
 <br>
 
