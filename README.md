@@ -1,6 +1,6 @@
 # Overview
 
-An example of beginner React concepts in the form of a digital business card.
+An example of beginner React concepts using a digital business card.
 
 <br>
 
