@@ -6,7 +6,7 @@ import About from "./components/about/About";
 import Interests from "./components/interests/Interests";
 import Footer from "./components/footer/Footer";
 
-function App() {
+export default function App() {
   return (
     <div className='page--container'>
       <div className="card--container">
@@ -21,5 +21,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
