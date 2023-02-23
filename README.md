@@ -1,11 +1,21 @@
-# Digital Business Card
+# Overview
 
-This is the first of four solo projects from Scrimba's Learn React course.  The design is based on an image from the figma design file linked below.  You can see this project deployed [here](https://lively-flower-056f2e71e.2.azurestaticapps.net/).
+An example of beginner React concepts in the form of a digital business card.
 
 <br>
 
-## Scrimba Course
+Interact with this project:
 
-Scrimba React course: https://scrimba.com/learn/learnreact
+https://lively-flower-056f2e71e.2.azurestaticapps.net
 
-Figma design file: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?t=7AvDAefYnyXCJBNp-0
+<br>
+
+## Resources
+
+Figma design file: 
+
+https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?t=7AvDAefYnyXCJBNp-0
+
+Scrimba's Learn React course: 
+
+https://scrimba.com/learn/learnreact
