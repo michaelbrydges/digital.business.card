@@ -1,19 +1,13 @@
 import React from 'react'
-import './info.css'
-import profileImg from './profileImg.jpg'
-import Button from './button/Button';
+import profileImg from './profileImg.png'
 
 export default function Info() {
   return (
-    <div className="info">
-      <img src={profileImg} alt="headshot"></img>
+    <div className='info--container'>
+      <img className='profile--img' src={profileImg} alt="headshot"></img>
       <h2>Michael Brydges</h2>
-      <p className="title">Full Stack Developer</p>
-      <p>michaelbrydges.com</p>
-      <div className='button-container'>
-        <Button />
-      </div>
-      
+      <p className="title">Front End Developer</p>
+      <p className="text--alt">michaelbrydges.com</p>
     </div>
   );
 }
