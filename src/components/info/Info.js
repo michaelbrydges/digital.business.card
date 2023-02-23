@@ -7,7 +7,7 @@ export default function Info() {
       <img className='profile--img' src={profileImg} alt="headshot"></img>
       <h2>Michael Brydges</h2>
       <p className="title">Full Stack Developer</p>
-      <p className="text--alt">michaelbrydges.com</p>
+      <a href="https://www.michaelbrydges.com"  target="_blank" rel="noopener noreferrer" className="text--alt">michaelbrydges.com</a>
     </div>
   );
 }

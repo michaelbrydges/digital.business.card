@@ -49,13 +49,10 @@
     margin: 2vw 0vw 3.5vw 0vw;
   }
 
-  p {
-    font-size: 3.75vw;
-    color: #DCDCDC;
-  }
-
   .text--alt {
-  color: #F5F5F5;
+    font-size: 4vw;
+    color: #F5F5F5;
+    text-decoration: none;
   }
 
 
@@ -119,7 +116,7 @@
 @media only screen and (min-width: 415px) {
 
   .page--container {
-    padding: 100px 10vw 100px 10vw;
+    padding: 60px 10vw 100px 10vw;
   }
 
   .card--container {
@@ -158,6 +155,10 @@
 
   p {
     font-size: 15.5px;
+  }
+
+  .text--alt {
+    font-size: 14px;
   }
 
 
