@@ -1,4 +1,3 @@
-import React from "react"; 
 import './App.css'
 import Info from "./components/info/Info";
 import Button from "./components/button/Button";

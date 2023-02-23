@@ -1,4 +1,3 @@
-import React from 'react'
 import email from './email.png'
 
 export default function Button() {

@@ -1,4 +1,3 @@
-import React from 'react'
 import profileImg from './profileImg.png'
 
 export default function Info() {

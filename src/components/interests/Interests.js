@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Interests() {
   return (
     <>
@@ -7,8 +5,6 @@ export default function Interests() {
       <p className="text--alt">Board games. Food. Hiking. Rock Climbing.
           Travel. Space.
       </p>  
-    </>
-    
+    </> 
   );
 }
-

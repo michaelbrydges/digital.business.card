@@ -1,4 +1,3 @@
-import React from "react";
 import linkedin from './linkedin.png';
 import github from './github.png';
 
