@@ -6,7 +6,7 @@ export default function Info() {
     <div className='info--container'>
       <img className='profile--img' src={profileImg} alt="headshot"></img>
       <h2>Michael Brydges</h2>
-      <p className="title">Front End Developer</p>
+      <p className="title">Full Stack Developer</p>
       <p className="text--alt">michaelbrydges.com</p>
     </div>
   );
